@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "534166099610",
+    "firebase_url": "https://chatsapp-458ac-default-rtdb.firebaseio.com",
+    "project_id": "chatsapp-458ac",
+    "storage_bucket": "chatsapp-458ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534166099610:android:782113395b4de1e58d7123",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534166099610-nh8tunh9fq229p3867av44u5k52803tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mianasad.chatsapp",
+            "certificate_hash": "72cb3cf1a4b8829ee0365edf3ca262146d630124"
+          }
+        },
+        {
+          "client_id": "534166099610-0tl9i7mf3rqu467ohl5g6ka0m4986jr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPiPct9fnGNIuiKLUadztYNTH_0Jycyvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534166099610-0tl9i7mf3rqu467ohl5g6ka0m4986jr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
